@@ -1,1 +1,1 @@
-# EKPA-TASKS-2
+# Example of README
